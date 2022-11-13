@@ -1,0 +1,55 @@
+*{
+    font-family: Helvetica, sans-serif;
+    background: white;
+}
+.main{
+    border: 3px solid rebeccapurple;
+    padding: 20px;
+    height: 150px;
+    width: 300px;
+    margin: auto;
+}
+.special{
+    border: 2px solid seagreen;
+}
+.h2{
+    font-size: 18px;
+}
+section{
+    margin: 50px auto;
+    height: 200px;
+    width: 600px;
+    border: 2px solid  ;
+    padding: 10px 5px;
+    
+}
+.box1{
+    border-color:green ;
+
+}
+.box2{
+    border-color: red ;
+
+}
+.box3 {
+    border-color: blue ;
+    height: 600px;
+
+}
+
+.first{
+    color: green;
+    font-size: 14px;
+
+}
+.second{
+    color: red;
+    font-size: 14px;
+
+}
+.third{
+    color: blue;
+    font-size: 14px;
+
+}
+ 
